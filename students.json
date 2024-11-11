@@ -1,0 +1,112 @@
+[
+    {
+        "student": {
+            "id": 1,
+            "name": "Leo Jimenez",
+            "age": 20,
+            "subjects": [
+                {
+                    "subject_name": "Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Analytic Geometry",
+                    "grades": [1.25]
+                },
+                {
+                    "subject_name": "Discrete Structures II",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Digital Logic Design",
+                    "grades": [1.50]
+                },
+                {
+                    "subject_name": "Object Oriented Programming",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Information Management",
+                    "grades": [1.25]
+                },
+                {
+                    "subject_name": "Fundamentals of Information Systems",
+                    "grades": [1.25]
+                },
+                {
+                    "subject_name": "Physical Activities towards Health and Fitness 1",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Web Systems Technologies",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Mathematics in Modern World",
+                    "grades": [1.25]
+                }
+            ],
+            "address": {
+                "street": "161 Kalabasa",
+                "barangay": "Pulang Lupa Uno",
+                "city": "Las Piñas City",
+                "zip_code": 1742
+            }
+        }
+    },
+    {
+        "student": {
+            "id": 2,
+            "name": "Jeremiah Delos Santos",
+            "age": 22,
+            "subjects": [
+                {
+                    "subject_name": "Mga Babasahin Hinggil sa Kasaysayan ng Pilipinas",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Analytic Geometry",
+                    "grades": [1.25]
+                },
+                {
+                    "subject_name": "Discrete Structures II",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Digital Logic Design",
+                    "grades": [1.50]
+                },
+                {
+                    "subject_name": "Object Oriented Programming",
+                    "grades": [1]
+                },
+                {
+                    "subject_name": "Information Management",
+                    "grades": [1.25]
+                },
+                {
+                    "subject_name": "Fundamentals of Information Systems",
+                    "grades": [1.25]
+                },
+                {
+                    "subject_name": "Physical Activities towards Health and Fitness 1",
+                    "grades": [1.25]
+                },
+                {
+                    "subject_name": "Web Systems Technologies",
+                    "grades": [1.50]
+                },
+                {
+                    "subject_name": "Mathematics in Modern World",
+                    "grades": [1.25]
+                }
+            ],
+            "address": {
+                "street": "299 E Tito Avenue",
+                "barangay": "San Nicolas Dos",
+                "city": "Bacoor City",
+                "zip_code": 4102
+            }
+        }
+    }
+]
